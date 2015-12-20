@@ -1,0 +1,18 @@
+labor-division.txt
+
+Team: Stephanie Frankian, Caylene Parrish, and Brenna Carver
+Project: Connectivia
+
+What Stephanie contributed:
+Wrote array shuffle algorithm (lines 89-99) in generateAnswers() in 
+QuestionsAndAnswers.java, all of Board.java, and collaborated on Game.java with Brenna
+
+What Caylene contributed:
+Wrote all of ConnectiviaGUI.java, GameSpecs.java, AboutPanel.java, Total.java, 
+most of MatchHistoryPanel.java, and BoardPanel.java up to the ButtonListener
+
+What Brenna contributed:
+
+Wrote QuestionsAndAnswers.java except for the array shuffle algorithm in 
+generateAnswers(), fixed MatchHistoryPanel to correctly count wins, the ButtonListener
+in BoardPanel.java, collaborated on Game.java with Stephanie

@@ -1,0 +1,56 @@
+/* AboutPanel.java
+ * Written by: Caylene Parrish
+ * Group: Brenna Carver, Caylene Parrish, Stephanie Frankian
+ * 
+ * Purpose: The AboutPanel contains the information for playing the
+ * game properly, so as to acquaint the user with the game in an 
+ * expedient manner. The documentation will be as specific as possible,
+ * and because this page only contains the text transcript, there are no
+ * Listeners in this class.
+ */
+
+import java.awt.*;
+import javax.swing.*;
+import javax.swing.JPanel;
+
+public class AboutPanel extends JPanel{
+  JLabel tokenPic; //the picture of the happy red token!
+  public AboutPanel() {
+    //sets background color and BorderLayout type
+    setBackground(new Color(255,204,204)); 
+    //BorderLayout is ideal for listing elements in compass locations
+    setLayout(new BorderLayout());
+    
+    //creates separate labels on each line of the panel
+    JLabel instruct = new JLabel();
+    instruct.setIcon(new ImageIcon("title.png")); //adds the title
+    String text = "<html><p>Upon invoking the program, the game specifications portion of the "+
+      "Connectivia Game will run. The GUI that results will prompt the player to choose the category of "+
+      "the game. Unsuccessful answer choices decrement from the total amount of ‘lives’ "+
+      "the specific player has. The total amount of lives is set at 3.  The players would specify the category "+
+      "of the questions via a drop-down menu on the same GUI screen, with options like Presidential or "+
+      "Country Capital trivia. A Hash Table would be generated with questions as the keys, and with answers "+
+      "as the values, from the text file associated with the difficulty level. By generating a Hash Table "+
+      "following the player’s difficulty choice, you can easily add new questions and answers to the "+
+      "text files so that the game can be continuously modified and updated with new questions going forwards. "+
+      "The  players will alternate turns, for the program would track whose turn it is in the match.</p></html>";
+    JLabel one = new JLabel(text); //adds the first paragraph
+    //sets the alignment of the Connectivia title
+    instruct.setHorizontalAlignment(JLabel.CENTER);
+    instruct.setVerticalAlignment(JLabel.BOTTOM);
+    //centers the text
+    one.setHorizontalAlignment(JLabel.CENTER);
+    //sets the font to Courier New
+    one.setFont(new Font("Lucida Sans", Font.BOLD, 14));  
+    //adds the labels to the panel
+    add(instruct,BorderLayout.NORTH);
+    add(one,BorderLayout.CENTER);
+    tokenPic = new JLabel();
+    
+    //adds an image to the right of the panel
+    tokenPic.setIcon(new ImageIcon("happyRed.png"));
+    tokenPic.setHorizontalAlignment(JLabel.RIGHT);
+    add(tokenPic, BorderLayout.SOUTH);
+    setPreferredSize (new Dimension(700,500)); 
+  }
+}

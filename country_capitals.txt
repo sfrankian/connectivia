@@ -1,0 +1,194 @@
+United Arab Emirates,Abu Dhabi
+Nigeria,Abuja
+Ghana,Accra
+Ethiopia,Addis Ababa
+Algeria,Algiers
+Jordan,Amman
+Netherlands,Amsterdam
+Andorra,Andorra la Vella
+Turkey,Ankara
+Madagascar,Antananarivo
+Samoa,Apia
+Turkmenistan,Ashgabat
+Eritrea,Asmara
+Kazakhstan,Astana
+Paraguay,Asuncin
+Greece,Athens
+Iraq,Baghdad
+Azerbaijan,Baku
+Mali,Bamako
+Brunei,Bandar Seri Begawan
+Thailand,Bangkok
+Central African Republic,Bangui
+Gambia,Banjul
+Saint Kitts and Nevis,Basseterre
+China,Beijing
+Lebanon,Beirut,
+Serbia,Belgrade
+Belize,Belmopan
+Germany,Berlin
+Switzerland,Bern
+Kyrgyzstan,Bishkek
+Guinea-Bissau,Bissau
+Colombia,Bogot
+Brazil,Braslia
+Slovakia,Bratislava
+Republic of the Congo,Brazzaville
+Barbados,Bridgetown
+Belgium,Brussels
+Romania,Bucharest
+Hungary,Budapest
+Argentina,Buenos Aires
+Burundi,Bujumbura
+Egypt,Cairo
+Australia,Canberra
+Venezuela,Caracas
+Saint Lucia,Castries
+Moldova,Chisinau
+Guinea,Conakry
+Denmark,Copenhagen
+Senegal,Dakar
+Syria,Damascus
+Bangladesh,Dhaka
+East Timor,Dili
+Djibouti,Djibouti
+Tanzania,Dodoma
+Qatar,Doha
+Ireland,Dublin
+Tajikistan,Dushanbe
+Sierra Leone,Freetown
+Tuvalu,Funafuti
+Botswana,Gaborone
+Guyana,Georgetown
+Guatemala,Guatemala City
+Vietnam,Hanoi
+Zimbabwe,Harare
+Cuba,Havana
+Finland,Helsinki
+Solomon Islands,Honiara
+Pakistan,Islamabad
+Indonesia,Jakarta
+Israel,Jerusalem
+South Sudan,Juba
+Afghanistan,Kabul
+Uganda,Kampala
+Nepal,Kathmandu
+Sudan,Khartoum
+Ukraine,Kiev
+Rwanda,Kigali
+Jamaica,Kingston
+Saint Vincent and the Grenadines,Kingstown
+Democratic Republic of the Congo,Kinshasa
+Malaysia,Kuala Lumpur
+Kuwait,Kuwait City
+Gabon,Libreville
+Malawi,Lilongwe
+Peru,Lima
+Portugal,Lisbon
+Slovenia,Ljubljana
+Togo,Lom
+United Kingdom,London
+Angola,Luanda
+Zambia,Lusaka
+Luxembourg,Luxembourg
+Spain,Madrid
+Marshall Islands,Majuro
+Equatorial Guinea,Malabo
+Maldives,Mal
+Nicaragua,Managua
+Bahrain,Manama
+Philippines,Manila
+Mozambique,Maputo
+Lesotho,Maseru
+Swaziland,Mbabane
+Mexico,Mexico City
+Belarus,Minsk
+Somalia,Mogadishu
+Monaco,Monaco
+Liberia,Monrovia
+Uruguay,Montevideo
+Comoros,Moroni
+Russia,Moscow
+Oman,Muscat
+Kenya,Nairobi
+Bahamas,Nassau
+Burma,Naypyidaw
+Chad,N'Djamena
+India,New Delhi
+Palau,Ngerulmud
+Niger,Niamey
+Cyprus,Nicosia
+Mauritania,Nouakchott
+Tonga,Nukualofa
+Norway,Oslo
+Canada,Ottawa
+Burkina Faso,Ouagadougou
+Federated States of Micronesia,Palikir
+Panama,Panama City
+Suriname,Paramaribo
+France,Paris
+Cambodia,Phnom Penh
+Mauritius,Port Louis
+Papua New Guinea,Port Moresby
+Vanuatu	Port,Vila
+Haiti,Port-au-Prince
+Trinidad and Tobago,Port of Spain
+Benin,Porto-Novo
+Czech Republic,Prague
+Cape Verde,Praia
+South Africa,Pretoria
+Kosovo,Pristina
+North Korea,Pyongyang
+Ecuador,Quito
+Morocco,Rabat
+Iceland,Reykjavk
+Latvia,Riga
+Saudi Arabia,Riyadh
+Italy,Rome
+Dominica,Roseau
+Costa Rica,San Jos
+San Marino,San Marino
+El Salvador,San Salvador
+Yemen,Sana'a
+Chile,Santiago
+Dominican Republic,Santo Domingo
+So Tom and Prncipe,So Tom
+Bosnia and Herzegovina,Sarajevo
+South Korea,Seoul
+Singapore,Singapore
+Macedonia,Skopje
+Bulgaria,Sofia
+Sri Lanka,Sri Jayawardenepura Kotte
+Grenada,St. George's
+Antigua and Barbuda,St. John's
+Sweden,Stockholm
+Bolivia,La Paz
+Fiji,Suva
+Estonia,Tallinn
+Kiribati,Tarawa Atoll
+Uzbekistan,Tashkent
+Georgia,Tbilisi
+Honduras,Tegucigalpa
+Iran,Tehran
+Bhutan,Thimphu
+Albania,Tirana
+Japan,Tokyo
+Libya,Tripoli
+Tunisia,Tunis
+Mongolia,Ulan Bator
+Liechtenstein,Vaduz
+Malta,Valletta
+Vatican City,Vatican City
+Seychelles,Victoria
+Austria,Vienna
+Laos,Vientiane
+Lithuania,Vilnius
+Poland,Warsaw
+United States,Washington, D.C.
+New Zealand,Wellington
+Namibia,Windhoek
+Ivory Coast,Yamoussoukro
+Cameroon,Yaound
+Nauru,Yaren
+Armenia,Yerevan
+Croatia,Zagreb
